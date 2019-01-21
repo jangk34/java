@@ -1,6 +1,8 @@
 
 public class day3o {
 	
+	// 메시지 작성 추가
+	
 	public static void main(String[] args) {
 
 	/*	for (int i=1; i<10; i++) {
@@ -32,5 +34,7 @@ public class day3o {
 				System.out.print("*");
 			}
 		}*/
+		
+		
 	}
 }
